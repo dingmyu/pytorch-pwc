@@ -37,3 +37,4 @@ As stated in the <a href="https://github.com/NVlabs/PWC-Net#license">licensing t
          year = {2018}
      }
 ```
+python3 pytorch4.0
